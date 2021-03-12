@@ -28,6 +28,7 @@ void checkZeros(long long *a)
 	{
 		if (a[i] = 0)
 			cout << "Zero Found" << endl;
+		    cout<<"ali";
 
 
 	}
